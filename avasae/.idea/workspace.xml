@@ -27,7 +27,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula04/lib/ava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../cursodepython" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -35,7 +35,7 @@
       <recent name="C:\Users\victo\Documents\cursodepython\projetos\avasae\aula04\lib\ava" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__ (2)">
+  <component name="RunManager" selected="Python.__init__ (1)">
     <configuration name="CotroledeDiabetes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="avasae" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,8 +164,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__ (2)" />
         <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__ (2)" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.CotroledeDiabetes" />
         <item itemvalue="Python.funções" />
