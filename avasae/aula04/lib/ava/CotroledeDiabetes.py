@@ -1,5 +1,5 @@
 import sqlite3
-from aula04.lib.ava import *
+from Class_aula import *
 print("\n" * 1)
 # Autor: José Alberto Rodrigues 26 Dezembro 2020
 # Para gerar .exe PyInstaller nomedoseuarquivo.py

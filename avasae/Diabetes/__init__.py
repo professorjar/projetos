@@ -3,10 +3,10 @@ from aula04.lib.ava import *
 print("\n" * 1)
 # Autor: José Alberto Rodrigues 26 Dezembro 2020
 # Para gerar .exe PyInstaller nomedoseuarquivo.py
-print("="*62)
-print("* CONTROLE DE DIABETES VERSÃO 2.0.4 *")
-print("MENU 4 Liberdades VERSÃO 1.0.3 https://github.com/professorjar ")
-print("="*62)
+print("="*100)
+print("* CONTROLE DE DIABETES VERSÃO 2.0.5  08/05/2021 *")
+print(" https://professorjar.github.io/gerenciamentodeprojetos/index.html")
+print("="*100)
 print(" ")
 registro = float(input('Pressione 0 para continuar : '))
 if registro == 0:
