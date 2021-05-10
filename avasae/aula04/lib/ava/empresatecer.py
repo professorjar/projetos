@@ -26,7 +26,7 @@ if registro == 0:
      print("* A.V.A & S.A.E   2021 Versão 1.0.2  *")
      print (" ")
      print ("="*62)
-     conexão = sqlite3.connect("diabetes.db")
+     conexão = sqlite3.connect("tecer.db")
      cursor = conexão.cursor()
      cursor.execute('''
            create table if not exists cad_empresa (

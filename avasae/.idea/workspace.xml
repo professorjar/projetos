@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95258da1-e70b-411f-a90f-f0f9c654710d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula04/lib/ava/empresatecer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diabetes/diabetes.db" beforeDir="false" afterPath="$PROJECT_DIR$/Diabetes/diabetes.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula04/lib/ava/diabetes.db" beforeDir="false" afterPath="$PROJECT_DIR$/aula04/lib/ava/diabetes.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula04/lib/ava/empresatecer.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula04/lib/ava/empresatecer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
